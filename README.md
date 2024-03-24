@@ -4,7 +4,7 @@
 - 💞️ Procuro colaborar em projetos de pessoas que assim como eu está iniciando como desenvolvedor. 
 - 📫 Como entrar em contato comigo ...
 - 😄 Pronomes: ELA/DELA
-- ⚡ Cusando: Analise e  Desenvolvemento de Sistemas. (faculdade Descomplica)
+- ⚡ Cursando: Analise e  Desenvolvemento de Sistemas. (faculdade Descomplica)
 
 <!---
 jaquehtml/jaquehtml é um repositório ✨ especial ✨ porque seu `README.md` (este arquivo) aparece em seu perfil do GitHub.
